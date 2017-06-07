@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenDataTlse</string>
+    <string name="closestPoint">Point de collecte le plus proche</string>
+    <string name="searchPoint">Rechercher des points de collecte</string>
+</resources>
