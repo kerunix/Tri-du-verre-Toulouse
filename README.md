@@ -2,7 +2,7 @@
 
 Small Android Application using the Toulouse Metropole Open Data APIs. Coded in an afternoon at school, 
 I might decide to come back to it later. In the meantinme feel free to fork and make pull requests if you
-want to contribute.
+want to.
 
 ** USAGE **
 
